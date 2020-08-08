@@ -30,6 +30,12 @@
 <br />
 <br />
 
+---
+
+<!-- see https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dwhiteGUK&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/dwhiteGUK/github-readme-stats)
+
 [website]: https://dlw.me.uk
 [twitter]: https://twitter.com/dlw
 [linkedin]: https://linkedin.com/in/darrenlwhite
