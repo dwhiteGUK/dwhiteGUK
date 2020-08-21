@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a registration application
 - 🌱 I’m currently learning testing, AWS amongst many others
 - 🥅 2020 Goals: add testing to my projects
-- ⚡ Fun fact: I'm training ot run a marathon on my 40th birthday
+- ⚡ Fun fact: I'm training to run a marathon on my 40th birthday
 
 ### Connect with me:
 
