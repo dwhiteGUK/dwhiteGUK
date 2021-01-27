@@ -4,10 +4,9 @@
 
 ## I'm a Husband, Father, Developer, and Runner
 
-- 🔭 I’m currently working on a registration application
-- 🌱 I’m currently learning testing, AWS amongst many others
-- 🥅 2020 Goals: add testing to my projects
-- ⚡ Fun fact: I'm training to run a marathon on my 40th birthday
+- 🔭 I’m currently working on a intranet application
+- 🌱 I’m currently going deep on Testing (see goal below)
+- 🥅 2021 Goals: add testing to my projects
 
 ### Connect with me:
 
