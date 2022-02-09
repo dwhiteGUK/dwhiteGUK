@@ -4,9 +4,9 @@
 
 ## I'm a Husband, Father, Developer, and Runner
 
-- 🔭 I’m currently working on a intranet application
+- 🔭 I’m currently working on a retail website
 - 🌱 I’m currently going deep on Testing (see goal below)
-- 🥅 2021 Goals: add testing to my projects
+- 🥅 2022 Goals: testing, testing, testing
 
 ### Connect with me:
 
