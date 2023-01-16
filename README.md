@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a retail website
 - 🌱 I’m currently going deep on Testing (see goal below)
-- 🥅 2022 Goals: testing, testing, testing
+- 🥅 2023 Goals: testing, testing, testing
 
 ### Connect with me:
 
